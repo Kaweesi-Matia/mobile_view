@@ -68,7 +68,7 @@ ul {
   padding-left: 0;
 }
 
---------------------------------------- */ .wrapper-1 {
+.wrapper-1 {
   display: grid;
   box-sizing: border-box;
   margin-left: 24px;
